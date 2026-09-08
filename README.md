@@ -22,6 +22,8 @@ The data engineering layer is implemented in Databricks, while Power BI is used 
 
 ## 🏗️ Architecture
 
+![DineDash Architecture](Ignore/Dine-Dash Architechture.png)
+
 DineDash follows the **Medallion Architecture** pattern.
 
 ### Bronze Layer
@@ -69,7 +71,7 @@ The Gold layer contains an analytics-ready **star schema** consisting of fact an
 - `fact_orders`
 - `fact_order_items`
 
-![DineDash Architecture](Ignore/Dine-Dash%20Architecture.png)
+
 
 ---
 
