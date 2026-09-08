@@ -24,7 +24,7 @@ The data engineering layer is implemented in Databricks, while Power BI is used 
 
 DineDash follows the **Medallion Architecture** pattern.
 
-![DineDash Architecture](Ignore/Dine-Dash%20Architecture.png)
+![DineDash Architecture]((https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/Dine-Dash%20Architechture.png))
 
 ### Bronze Layer
 
