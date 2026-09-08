@@ -24,7 +24,7 @@ The data engineering layer is implemented in Databricks, while Power BI is used 
 
 DineDash follows the **Medallion Architecture** pattern.
 
-![[DineDash Architecture](https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/DineDash_ETL_Pipeline.png)](https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/DineDash_ETL_Pipeline.png)
+       ![[DineDash Architecture](https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/Dine_Dash_%20Architechture.png)]  (https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/Dine_Dash_%20Architechture.png)
 
 ### Bronze Layer
 
@@ -83,7 +83,7 @@ The Bronze, Silver, and Gold layers are orchestrated through a Databricks Job.
 
 **Bronze Ingestion → Silver Transformation → Gold Modeling**
 
-![DineDash ETL Pipeline]((https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/DineDash_ETL_Pipeline.png))
+![[DineDash ETL Pipeline](https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/DineDash_ETL_Pipeline.png)](https://github.com/ChanakyaSreeHarshaG/DineDash-End-to-End-Data-Engineering-Power-BI-Analytics/blob/main/Ignore/DineDash_ETL_Pipeline.png)
 
 ```text
 Bronze Ingestion
