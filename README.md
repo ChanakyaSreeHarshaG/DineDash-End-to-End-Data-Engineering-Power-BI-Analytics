@@ -82,6 +82,7 @@ The Bronze, Silver, and Gold layers are orchestrated through a Databricks Job.
 ### Pipeline
 
 **Bronze Ingestion → Silver Transformation → Gold Modeling**
+
 ![DineDash ETL Pipeline](Ignore/DineDash_ETL_Pipeline.png)
 
 ```text
